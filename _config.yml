@@ -1,14 +1,13 @@
-title: ""
-description: ""
+title: "Pagina de prueba en local"
+description: "Esta es la presentación de mi pagina"
 baseurl: ""
-url: ""
+url: "https://S3iiz4.github.io"
+theme: "cvless"
 
 exclude:
-  - demo/
   - cvless.gemspec
   - LICENSE
   - README.md
-  - screenshot.png
 
 plugins:
   - jekyll-feed
